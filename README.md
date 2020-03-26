@@ -1,4 +1,4 @@
-# Python_Project_Wine_Analysis
+# Python Project Wine Analysis
 
 Project Objective:
 Using NLP and Machine Learning to predict price of wines using wine reviews
